@@ -84,6 +84,7 @@ const FAQSection = () => {
     <div className="parentContainer-1">
       <div
         className="mainContainer-1 background-img-1 "
+        id="ourFAQ"
         style={{ backgroundImage: `url(${faqBackground})` }}
       >
         <div className="title">
